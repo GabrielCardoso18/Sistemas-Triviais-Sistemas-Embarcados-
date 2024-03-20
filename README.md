@@ -1,5 +1,7 @@
 # Sistemas-Triviais-Sistemas-Embarcados-
+
 #Repositório criado para a matéria de sistemas embarcados
+
 ##Como funciona um retificador?
   Eles são condutores de energia elétrica, composto por um terminal positivo e um negativo, permitindo assim que ele realize a transferência de energia, transformando corrente alternada em corrente contínua.
   
